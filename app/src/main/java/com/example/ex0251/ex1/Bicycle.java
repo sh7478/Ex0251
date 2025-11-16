@@ -1,6 +1,6 @@
-package com.example.ex0251;
+package com.example.ex0251.ex1;
 
-public class Bicycle extends Vehicle{
+public class Bicycle extends Vehicle {
     @Override
     public void start() {
         System.out.println("The rider started pedalling");

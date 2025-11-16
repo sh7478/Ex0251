@@ -1,4 +1,4 @@
-package com.example.ex0251;
+package com.example.ex0251.ex1;
 
 public class Motorcycle extends Vehicle{
     @Override

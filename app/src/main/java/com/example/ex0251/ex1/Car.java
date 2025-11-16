@@ -1,6 +1,6 @@
-package com.example.ex0251;
+package com.example.ex0251.ex1;
 
-public class Car extends Vehicle{
+public class Car extends Vehicle {
 
     @Override
     public void start() {
